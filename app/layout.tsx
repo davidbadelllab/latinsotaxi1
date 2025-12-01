@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'LatinosTaxi1 - Servicio de Taxi Profesional en Lutz, FL',
-  description: 'Servicio de taxi confiable y profesional en Lutz, Florida. Transporte seguro las 24 horas. Llama al +1 (813) 446-0879 o contacta por WhatsApp.',
+  description: 'Servicio de taxi confiable y profesional en Lutz, Florida. Transporte seguro las 24 horas. Llama al +1 (656) 237-7425 o contacta por WhatsApp.',
   keywords: 'taxi, transporte, Lutz, Florida, servicio taxi, LatinosTaxi1, transporte seguro',
   authors: [{ name: 'LatinosTaxi1' }],
   openGraph: {

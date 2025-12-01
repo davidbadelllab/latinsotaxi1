@@ -51,7 +51,7 @@ export default function Header() {
           <div className="hidden lg:flex items-center space-x-4">
             <div className="flex items-center space-x-2 text-gray-300">
               <Phone className="w-4 h-4" />
-              <span className="text-sm">+1 (813) 446-0879</span>
+              <span className="text-sm">+1 (656) 237-7425</span>
             </div>
             <div className="flex items-center space-x-2 text-gray-300">
               <MapPin className="w-4 h-4" />
@@ -103,7 +103,7 @@ export default function Header() {
               <div className="pt-4 border-t border-gray-700">
                 <div className="flex items-center space-x-2 text-gray-300 mb-2">
                   <Phone className="w-4 h-4" />
-                  <span className="text-sm">+1 (813) 446-0879</span>
+                  <span className="text-sm">+1 (656) 237-7425</span>
                 </div>
                 <div className="flex items-center space-x-2 text-gray-300">
                   <MapPin className="w-4 h-4" />

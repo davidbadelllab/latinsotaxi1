@@ -133,13 +133,13 @@ export default function Services() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="tel:+18134460879"
+                href="tel:+16562377425"
                 className="btn-primary"
               >
                 Llamar Ahora
               </a>
               <a
-                href="https://wa.me/18134460879"
+                href="https://wa.me/16562377425"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-secondary"

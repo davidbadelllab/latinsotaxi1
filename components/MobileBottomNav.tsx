@@ -29,13 +29,13 @@ export default function MobileBottomNav() {
       id: 'phone',
       icon: Phone,
       label: 'Llamar',
-      href: 'tel:+18134460879'
+      href: 'tel:+16562377425'
     },
     {
       id: 'whatsapp',
       icon: MessageCircle,
       label: 'WhatsApp',
-      href: 'https://wa.me/18134460879'
+      href: 'https://wa.me/16562377425'
     }
   ]
 

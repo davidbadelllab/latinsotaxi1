@@ -29,13 +29,13 @@ export default function MobileHeader() {
           {/* Contact buttons */}
           <div className="flex items-center space-x-2">
             <a
-              href="tel:+18134460879"
+              href="tel:+16562377425"
               className="w-8 h-8 bg-primary-500 rounded-full flex items-center justify-center"
             >
               <span className="text-black-900 text-xs font-bold">📞</span>
             </a>
             <a
-              href="https://wa.me/18134460879"
+              href="https://wa.me/16562377425"
               target="_blank"
               rel="noopener noreferrer"
               className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center"

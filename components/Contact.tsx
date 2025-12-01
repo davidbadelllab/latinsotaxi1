@@ -23,7 +23,7 @@ export default function Contact() {
     e.preventDefault()
     // Create WhatsApp message
     const message = `Hola, soy ${formData.name}. ${formData.message}. Mi teléfono es ${formData.phone}${formData.email ? ` y mi email es ${formData.email}` : ''}.`
-    const whatsappUrl = `https://wa.me/18134460879?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/16562377425?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, '_blank')
   }
 
@@ -31,15 +31,15 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Teléfono',
-      info: '+1 (813) 446-0879',
-      action: 'tel:+18134460879',
+      info: '+1 (656) 237-7425',
+      action: 'tel:+16562377425',
       description: 'Llamada directa'
     },
     {
       icon: MessageCircle,
       title: 'WhatsApp',
-      info: '+1 (813) 446-0879',
-      action: 'https://wa.me/18134460879',
+      info: '+1 (656) 237-7425',
+      action: 'https://wa.me/16562377425',
       description: 'Mensaje directo'
     },
     {
@@ -160,13 +160,13 @@ export default function Contact() {
               </p>
               <div className="flex space-x-3">
                 <a
-                  href="tel:+18134460879"
+                  href="tel:+16562377425"
                   className="btn-primary text-sm py-2 px-4"
                 >
                   Llamar Ahora
                 </a>
                 <a
-                  href="https://wa.me/18134460879"
+                  href="https://wa.me/16562377425"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-secondary text-sm py-2 px-4"

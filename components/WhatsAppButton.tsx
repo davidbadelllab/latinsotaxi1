@@ -19,7 +19,7 @@ export default function WhatsAppButton() {
 
   const handleWhatsAppClick = () => {
     const message = "Hola, me interesa el servicio de taxi. ¿Podrían ayudarme?"
-    const whatsappUrl = `https://wa.me/18134460879?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/16562377425?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, '_blank')
   }
 

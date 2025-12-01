@@ -41,13 +41,13 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               <a
-                href="tel:+18134460879"
+                href="tel:+16562377425"
                 className="w-10 h-10 bg-black-900 hover:bg-black-800 rounded-full flex items-center justify-center transition-colors"
               >
                 <Phone className="w-5 h-5" />
               </a>
               <a
-                href="https://wa.me/18134460879"
+                href="https://wa.me/16562377425"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-green-500 hover:bg-green-600 rounded-full flex items-center justify-center transition-colors"
@@ -91,7 +91,7 @@ export default function Footer() {
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-primary-400" />
                 <div>
-                  <p className="text-gray-300">+1 (813) 446-0879</p>
+                  <p className="text-gray-300">+1 (656) 237-7425</p>
                   <p className="text-xs text-gray-400">Llamada directa</p>
                 </div>
               </div>
@@ -127,11 +127,11 @@ export default function Footer() {
               © 2024 LatinosTaxi1. Todos los derechos reservados.
             </div>
             <div className="flex space-x-6 text-sm">
-              <a href="tel:+18134460879" className="text-gray-400 hover:text-white transition-colors">
+              <a href="tel:+16562377425" className="text-gray-400 hover:text-white transition-colors">
                 Llamar Ahora
               </a>
               <a 
-                href="https://wa.me/18134460879" 
+                href="https://wa.me/16562377425" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"

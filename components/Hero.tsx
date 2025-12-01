@@ -48,14 +48,14 @@ export default function Hero() {
             className="flex flex-col sm:flex-row gap-4 justify-center mb-12"
           >
             <a
-              href="tel:+18134460879"
+              href="tel:+16562377425"
               className="btn-secondary flex items-center justify-center space-x-2 text-lg"
             >
               <Phone className="w-5 h-5" />
               <span>Llamar Ahora</span>
             </a>
             <a
-              href="https://wa.me/18134460879"
+              href="https://wa.me/16562377425"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-outline border-white text-white hover:bg-white hover:text-black-900 flex items-center justify-center space-x-2 text-lg"
