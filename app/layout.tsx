@@ -35,6 +35,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
         <link rel="canonical" href="https://latinostaxi1.com" />
         <meta name="theme-color" content="#eab308" />
+        <meta name="facebook-domain-verification" content="29leofbeg3sdhm2vkox4bidfkwpa99" />
       </head>
       <body>
         {children}
